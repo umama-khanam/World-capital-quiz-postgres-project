@@ -30,7 +30,7 @@ A simple and interactive quiz web app where a random country appears, and the us
 
 ## 📸 Screenshot
 
-![World Capital Quiz Screenshot](./assets/screenshot.png)
+![World Capital Quiz Homepage Screenshot](https://github.com/umama-khanam/World-capital-quiz-postgres-project/blob/main/Screenshot%20(8103).png)
 
 > Replace the image path if your screenshot is saved elsewhere
 
